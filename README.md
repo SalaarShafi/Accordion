@@ -1,1 +1,1 @@
-Check it out here: https://app.netlify.com/sites/accordion-salaarshafi
+Check it out here: https://accordion-salaarshafi.netlify.app/
